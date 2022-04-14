@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gurbaj
 - 👀 I’m interested in Software Development, UI, Frontend and integrating Backend & 3rd party APIs
 - 🌱 I’m currently learning about uni testing and automation
-- 💞️ I’m looking to collaborate on a Frontend,  Backend or Fullsatck opportunities.
+- 💞️ I’m looking to collaborate on a Frontend,  Backend or Full-stack opportunities.
 - 📫 You can reach me at sgurbaj408@gmail.com
 
 <!---
